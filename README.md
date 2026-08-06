@@ -191,3 +191,101 @@ That is the philosophy behind **NEXORA**.
 ---
 
 > **"Intelligence Without Limits."**
+---
+
+# 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=rexadil&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://streak-stats.demolab.com?user=rexadil&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexadil&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Development Activity
+
+> This dashboard updates automatically as new repositories, commits, and contributions are added.
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description | Status |
+|----------|-------------|--------|
+| 🧠 Nexora Core | AI Operating System | 🚧 In Progress |
+| 🤖 Nexora AI | Intelligent AI Platform | 📋 Planned |
+| 🌐 Nexora Web | Official Website | 📋 Planned |
+| 📱 Nexora Mobile | Android Application | 📋 Planned |
+| ⚙️ Nexora Automation | Workflow Automation | 📋 Planned |
+| 📚 Nexora Docs | Documentation Portal | 📋 Planned |
+
+---
+
+# 🗺️ Development Roadmap
+
+## Phase 01
+✅ Brand Identity
+
+## Phase 02
+✅ GitHub Foundation
+
+## Phase 03
+🚧 GitHub Digital Headquarters
+
+## Phase 04
+⬜ AI Core
+
+## Phase 05
+⬜ Web Platform
+
+## Phase 06
+⬜ Mobile Platform
+
+## Phase 07
+⬜ AI Agents
+
+## Phase 08
+⬜ Automation Platform
+
+## Phase 09
+⬜ Public Beta
+
+## Phase 10
+⬜ Global Release
+
+---
+
+# 🌍 Open Source Philosophy
+
+NEXORA believes knowledge grows through collaboration.
+
+We are committed to building secure, ethical, transparent, and high-quality open-source technologies that empower developers worldwide.
+
+---
+
+# 🤝 Let's Connect
+
+🌍 Bangladesh
+
+🧠 Building NEXORA
+
+📧 Contact information will be available soon.
+
+---
+
+# 💬 Quote
+
+> "The best way to predict the future is to build it."
+
+---
