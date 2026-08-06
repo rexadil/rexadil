@@ -51,7 +51,49 @@ Built for the World 🌍
 ---
 
 # 👋 About Me
+---
 
+# 🌍 About NEXORA
+
+NEXORA is a long-term Artificial Intelligence platform dedicated to building intelligent software, automation systems, developer tools, and scalable AI infrastructure.
+
+Our mission is to simplify advanced technology while maintaining performance, security, and accessibility for everyone.
+
+Designed in Bangladesh 🇧🇩
+
+Built for the World 🌍
+
+---
+
+# 🎯 Vision
+
+To become one of the world's most trusted AI ecosystems by creating innovative, ethical, and accessible technology that empowers individuals, businesses, and developers.
+
+---
+
+# 🚀 Mission
+
+- Build a world-class AI Operating System
+- Develop intelligent AI Agents
+- Create powerful automation platforms
+- Support open-source innovation
+- Empower developers worldwide
+- Deliver secure and scalable AI solutions
+
+---
+
+# ⭐ Core Values
+
+- Innovation First
+- Human-Centered AI
+- Open Source Collaboration
+- Privacy by Design
+- Security by Default
+- Scalability
+- Simplicity
+- Long-Term Thinking
+
+---
 Hi, I'm **𝐑𝐄χ**.
 
 Founder of **NEXORA**, a long-term AI platform focused on creating intelligent systems, modern developer tools, automation, and scalable software for the future.
