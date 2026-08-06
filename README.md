@@ -1,16 +1,31 @@
-## Hi there 👋
+# <div align="center">
 
-<!--
-**rexadil/rexadil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# NEXORA
 
-Here are some ideas to get you started:
+### Intelligence Without Limits.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 AI Operating System • Open Source • Built for the World
+
+---
+
+### 👋 Welcome
+
+Building the next generation AI ecosystem from Bangladesh.
+
+Designed in Bangladesh 🇧🇩
+
+Built for the World 🌍
+
+---
+
+### Founder
+
+**𝐑𝐄χ**
+
+Founder & AI Systems Engineer
+
+---
+
+> "The future belongs to those who build intelligence."
+
+</div>
