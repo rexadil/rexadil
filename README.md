@@ -1,31 +1,63 @@
-# <div align="center">
+<div align="center">
 
 # NEXORA
 
 ### Intelligence Without Limits.
 
-### 🚀 AI Operating System • Open Source • Built for the World
+**AI Operating System • Open Source • Built for the World**
 
 ---
 
-### 👋 Welcome
+### 👋 Welcome to My GitHub
 
-Building the next generation AI ecosystem from Bangladesh.
+I'm **𝐑𝐄χ**, Founder of **Nexora**.
 
-Designed in Bangladesh 🇧🇩
+I'm building a next-generation AI ecosystem focused on intelligent software, automation, developer tools, and scalable open-source systems.
 
-Built for the World 🌍
+🌍 Designed in Bangladesh  
+🚀 Built for the World
+
+</div>
 
 ---
 
-### Founder
+# 🚀 About Nexora
 
-**𝐑𝐄χ**
+Nexora is a long-term AI platform designed to make advanced artificial intelligence more useful, accessible, and scalable.
 
-Founder & AI Systems Engineer
+Our vision is to build an ecosystem that empowers developers, businesses, creators, and learners through intelligent tools.
+
+---
+
+# 🎯 Mission
+
+- Build world-class AI products
+- Create open-source technologies
+- Empower developers
+- Build ethical AI systems
+- Deliver global-quality software
+
+---
+
+# 👨‍💻 About Me
+
+- Founder of Nexora
+- AI Systems Engineer
+- Open Source Builder
+- Technology Enthusiast
+- Lifelong Learner
+
+---
+
+# 📌 Current Focus
+
+- AI Platform
+- AI Agents
+- Automation
+- Mobile Apps
+- Web Platform
+- Developer Tools
 
 ---
 
 > "The future belongs to those who build intelligence."
-
-</div>
