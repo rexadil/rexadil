@@ -289,3 +289,122 @@ We are committed to building secure, ethical, transparent, and high-quality open
 > "The best way to predict the future is to build it."
 
 ---
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rexadil&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rexadil&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+# 👀 Profile Visitors
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=rexadil&style=for-the-badge&color=00E5FF"/>
+
+</div>
+
+---
+
+# 📌 Repository Standards
+
+Every official NEXORA repository follows the same engineering principles:
+
+- Clean Architecture
+- Modular Design
+- Security First
+- Privacy by Design
+- Documentation First
+- Open Source Friendly
+- Scalable Engineering
+- Long-term Maintainability
+
+---
+
+# 📂 Official Repository Structure
+
+```
+README.md
+LICENSE
+SECURITY.md
+CONTRIBUTING.md
+CODE_OF_CONDUCT.md
+CHANGELOG.md
+docs/
+assets/
+src/
+.github/
+```
+
+---
+
+# 🌍 Future Vision
+
+NEXORA is designed as a long-term ecosystem that will evolve from a single AI initiative into a complete platform including:
+
+- AI Operating System
+- AI Assistants
+- Automation Platform
+- Mobile Applications
+- Web Applications
+- Developer Platform
+- API Ecosystem
+- Open Source Community
+
+---
+
+# 📜 License
+
+Unless otherwise stated, official NEXORA projects are released under the MIT License.
+
+---
+
+# ❤️ Support the Mission
+
+If you find this project useful:
+
+⭐ Star the repositories
+
+🍴 Fork the projects
+
+🤝 Contribute ideas
+
+💬 Share feedback
+
+🚀 Build together
+
+---
+
+<div align="center">
+
+# NEXORA
+
+### Intelligence Without Limits.
+
+Designed in Bangladesh 🇧🇩
+
+Built for the World 🌍
+
+---
+
+**Founder**
+### 𝐑𝐄χ
+
+*"Building the future through intelligent technology."*
+
+</div>
