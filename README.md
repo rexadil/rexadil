@@ -30,6 +30,26 @@ Built for the World 🌍
 
 ---
 
+## 🌐 NEXORA AT A GLANCE
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/AI-Operating%20System-00E5FF?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Built%20With-Love-red?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Designed%20In-Bangladesh-006A4E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Built%20For-The%20World-0A192F?style=for-the-badge"/>
+
+</p>
+
+---
+
 # 👋 About Me
 
 Hi, I'm **𝐑𝐄χ**.
