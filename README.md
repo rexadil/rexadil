@@ -1,258 +1,193 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=NEXORA;Intelligence+Without+Limits.;Building+the+Future+of+Artificial+Intelligence." />
+# NEXORA
 
-<h3>🚀 AI Operating System • Open Source • Built for the World</h3>
+### Intelligence Without Limits.
+
+Building the Next Generation AI Ecosystem
+
+---
 
 <p>
-
-<img src="https://img.shields.io/badge/Founder-𝐑𝐄χ-00E5FF?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Project-NEXORA-0A192F?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Country-Bangladesh-006A4E?style=for-the-badge" />
-
+<img src="https://img.shields.io/badge/Founder-𝐑𝐄χ-00E5FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Built%20for-Global-black?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🧠 Intelligence Without Limits.
+### 🇧🇩 Designed in Bangladesh
 
-Building the next generation AI ecosystem focused on
+### 🌍 Built for the World
 
-Artificial Intelligence • Automation • Developer Tools • Intelligent Software
+---
 
-Designed in Bangladesh 🇧🇩
-
-Built for the World 🌍
+*"Building intelligent technology that empowers people, developers, businesses and the future."*
 
 </div>
 
 ---
 
-## 🌐 NEXORA AT A GLANCE
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Open%20Source-Yes-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/AI-Operating%20System-00E5FF?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Built%20With-Love-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Designed%20In-Bangladesh-006A4E?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Built%20For-The%20World-0A192F?style=for-the-badge"/>
-
-</p>
-
----
-
 # 👋 About Me
+
+Hi, I'm **𝐑𝐄χ**.
+
+Founder of **NEXORA**.
+
+I am building a long-term Artificial Intelligence ecosystem focused on intelligent software, automation, AI agents, productivity systems, developer platforms, and open-source technologies.
+
+This GitHub profile documents that journey—from the first prototype to a complete AI ecosystem.
+
 ---
 
-# 🌍 About NEXORA
+# 🚀 About NEXORA
 
-NEXORA is a long-term Artificial Intelligence platform dedicated to building intelligent software, automation systems, developer tools, and scalable AI infrastructure.
+NEXORA is an AI-first technology initiative focused on building practical, scalable, and ethical software for the future.
 
-Our mission is to simplify advanced technology while maintaining performance, security, and accessibility for everyone.
-
-Designed in Bangladesh 🇧🇩
-
-Built for the World 🌍
+The vision is not to create a single application, but an interconnected ecosystem where AI, automation, mobile, web, APIs, and developer tools work together.
 
 ---
 
 # 🎯 Vision
 
-To become one of the world's most trusted AI ecosystems by creating innovative, ethical, and accessible technology that empowers individuals, businesses, and developers.
+Create one of the world's most trusted AI ecosystems.
+
+Build technology that is intelligent, accessible, ethical, scalable, and designed for long-term impact.
 
 ---
 
-# 🚀 Mission
+# 🛰 Mission
 
-- Build a world-class AI Operating System
-- Develop intelligent AI Agents
-- Create powerful automation platforms
-- Support open-source innovation
-- Empower developers worldwide
-- Deliver secure and scalable AI solutions
+• Build an AI Operating System
+
+• Develop AI Agents
+
+• Create Automation Platforms
+
+• Build Developer Tools
+
+• Support Open Source
+
+• Design Secure Software
+
+• Deliver Global Quality Products
 
 ---
 
-# ⭐ Core Values
+# ⭐ Core Principles
 
-- Innovation First
-- Human-Centered AI
-- Open Source Collaboration
+- Intelligence First
+- Simplicity
+- Performance
+- Scalability
 - Privacy by Design
 - Security by Default
-- Scalability
-- Simplicity
+- Open Collaboration
 - Long-Term Thinking
-# 🛠 Technology Stack
-
-## 🤖 Artificial Intelligence
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge)
+- Continuous Learning
 
 ---
 
-## 💻 Programming Languages
+# 🧠 Current Focus
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-## 🌐 Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-
----
-
-## ⚙ Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
----
-
-## ☁ Cloud & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
----
-
-## 🧰 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-------
-
-# 🏗️ NEXORA ECOSYSTEM
-
-```
-
-                    NEXORA
-
-                         │
-
-       ┌─────────────────┼─────────────────┐
-
-       │                 │                 │
-
-   🤖 AI Core       🌐 Web Platform    📱 Mobile
-
-       │                 │                 │
-
-       ├──────────────┬──┴──────────────┤
-
-       │              │                 │
-
-   ⚙ Automation   🧠 AI Agents    ☁ Cloud APIs
-
-       │              │                 │
-
-       └──────────────┼─────────────────┘
-
-                      │
-
-             🌍 Open Source Ecosystem
-
-```
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🧠 Nexora Core | AI Operating System | 🚧 In Development |
-| 🤖 Nexora AI | Intelligent AI Platform | 🚧 Planning |
-| 🌐 Nexora Web | Official Web Platform | 🚧 Planning |
-| 📱 Nexora Mobile | Android Application | 🚧 Planning |
-| ⚙ Nexora Automation | Automation Suite | 🚧 Planning |
-| 📚 Nexora Docs | Official Documentation | 🚧 Planning |
-
----
-
-# 🗺️ Development Roadmap
-
-### Phase 1
-✅ Brand Identity
-
-### Phase 2
-✅ GitHub Foundation
-
-### Phase 3
-🚧 Digital Headquarters
-
-### Phase 4
-⬜ AI Core Development
-
-### Phase 5
-⬜ Web Platform
-
-### Phase 6
-⬜ Mobile Platform
-
-### Phase 7
-⬜ AI Marketplace
-
-### Phase 8
-⬜ Global Launch
-
----
-
-# 🌍 Open Source Philosophy
-
-NEXORA is being built with a long-term vision of creating intelligent, ethical, and accessible AI technologies for developers, businesses, creators, and learners around the world.
-
-We believe innovation grows stronger through collaboration, transparency, and open knowledge.
-
----
-Hi, I'm **𝐑𝐄χ**.
-
-Founder of **NEXORA**, a long-term AI platform focused on creating intelligent systems, modern developer tools, automation, and scalable software for the future.
-
-I believe technology should be powerful, ethical, and accessible to everyone.
-
----
-
-# 🎯 Mission
-
-- Build world-class AI products
-- Empower developers
-- Create high-quality open-source software
-- Design scalable AI infrastructure
-- Build technology with long-term vision
-
----
-
-# 🌍 Vision
-
-To make **NEXORA** one of the world's leading AI platforms by creating innovative products that help people learn, build, automate, and grow.
-
----
-
-# 🚀 Current Focus
-
+- Artificial Intelligence
 - AI Operating System
 - AI Agents
-- Automation Platform
-- Mobile Applications
+- Automation
+- Mobile Apps
 - Web Platform
-- Developer Ecosystem
+- Developer Tools
+- Open Source
 
 ---
 
-> **"The future belongs to those who build intelligence."**
+# 🛠 Planned Technology Stack
+
+## Artificial Intelligence
+
+- Google Gemini
+- OpenAI
+- AI Agents
+
+## Programming
+
+- Python
+- JavaScript
+- TypeScript
+
+## Frontend
+
+- React
+- Next.js
+
+## Backend
+
+- Node.js
+- Firebase
+
+## DevOps
+
+- Docker
+- GitHub Actions
+
+## Version Control
+
+- Git
+- GitHub
+
+---
+
+# 🌐 NEXORA Ecosystem
+
+```
+                NEXORA
+
+                  │
+
+     ┌────────────┼────────────┐
+
+     │            │            │
+
+  AI Core      Web App     Mobile App
+
+     │            │            │
+
+     ├────────────┼────────────┤
+
+     │            │            │
+
+ AI Agents   Automation   Developer Tools
+
+     │            │            │
+
+     └────────────┼────────────┘
+
+                  │
+
+          Open Source Platform
+
+                  │
+
+          Global AI Ecosystem
+```
+
+---
+
+# 💡 Philosophy
+
+Technology should not simply become more powerful.
+
+It should become more useful.
+
+More ethical.
+
+More accessible.
+
+More human.
+
+That is the philosophy behind **NEXORA**.
+
+---
+
+> **"Intelligence Without Limits."**
