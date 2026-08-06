@@ -1,63 +1,70 @@
 <div align="center">
 
-# NEXORA
+# <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=NEXORA;Intelligence+Without+Limits.;Building+the+Future+of+Artificial+Intelligence." />
 
-### Intelligence Without Limits.
+<h3>🚀 AI Operating System • Open Source • Built for the World</h3>
 
-**AI Operating System • Open Source • Built for the World**
+<p>
+
+<img src="https://img.shields.io/badge/Founder-𝐑𝐄χ-00E5FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Project-NEXORA-0A192F?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Country-Bangladesh-006A4E?style=for-the-badge" />
+
+</p>
 
 ---
 
-### 👋 Welcome to My GitHub
+### 🧠 Intelligence Without Limits.
 
-I'm **𝐑𝐄χ**, Founder of **Nexora**.
+Building the next generation AI ecosystem focused on
 
-I'm building a next-generation AI ecosystem focused on intelligent software, automation, developer tools, and scalable open-source systems.
+Artificial Intelligence • Automation • Developer Tools • Intelligent Software
 
-🌍 Designed in Bangladesh  
-🚀 Built for the World
+Designed in Bangladesh 🇧🇩
+
+Built for the World 🌍
 
 </div>
 
 ---
 
-# 🚀 About Nexora
+# 👋 About Me
 
-Nexora is a long-term AI platform designed to make advanced artificial intelligence more useful, accessible, and scalable.
+Hi, I'm **𝐑𝐄χ**.
 
-Our vision is to build an ecosystem that empowers developers, businesses, creators, and learners through intelligent tools.
+Founder of **NEXORA**, a long-term AI platform focused on creating intelligent systems, modern developer tools, automation, and scalable software for the future.
+
+I believe technology should be powerful, ethical, and accessible to everyone.
 
 ---
 
 # 🎯 Mission
 
 - Build world-class AI products
-- Create open-source technologies
 - Empower developers
-- Build ethical AI systems
-- Deliver global-quality software
+- Create high-quality open-source software
+- Design scalable AI infrastructure
+- Build technology with long-term vision
 
 ---
 
-# 👨‍💻 About Me
+# 🌍 Vision
 
-- Founder of Nexora
-- AI Systems Engineer
-- Open Source Builder
-- Technology Enthusiast
-- Lifelong Learner
+To make **NEXORA** one of the world's leading AI platforms by creating innovative products that help people learn, build, automate, and grow.
 
 ---
 
-# 📌 Current Focus
+# 🚀 Current Focus
 
-- AI Platform
+- AI Operating System
 - AI Agents
-- Automation
-- Mobile Apps
+- Automation Platform
+- Mobile Applications
 - Web Platform
-- Developer Tools
+- Developer Ecosystem
 
 ---
 
-> "The future belongs to those who build intelligence."
+> **"The future belongs to those who build intelligence."**
